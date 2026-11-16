@@ -1,0 +1,21 @@
+{
+  "name": "cherry-scholar",
+  "version": "1.0.0",
+  "description": "A Pinterest-inspired cherry red research paper companion that simplifies complex science, highlights terminology, and visualizes research gaps and insights.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "research-paper",
+    "science",
+    "pinterest-style",
+    "cherry-red",
+    "paper-reader",
+    "vocabulary",
+    "research-gap"
+  ],
+  "author": "Antigravity",
+  "license": "MIT"
+}
